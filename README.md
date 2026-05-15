@@ -1,2 +1,21 @@
-# Toolist
-A list of tools for different purposes and types of usage ...
+# 🛠️ Toolist
+
+A list of tools for different purposes and types of usage.
+
+## ♻️ Conversion Tools
+
+### 🌐 **Code**
+
+#### HTML
+
+> [HTML → Markdown](https://codebeautify.org/html-to-markdown) <br>
+
+#### Markdown
+
+> [Markdown → HTML](https://codebeautify.org/markdown-to-html)
+
+<br>
+
+                                                                   •••
+
+## ✨ Useful Stuff
