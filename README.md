@@ -21,3 +21,5 @@ A list of tools for different purposes and types of usage.
                                                                    •••
 
 ## ✨ Useful Stuff
+
+<img src="https://www.base64.sh/favicon-16x16.png"> → [All Encoding & Decoding Tools | Complete Collection](https://www.base64.sh/tools)
