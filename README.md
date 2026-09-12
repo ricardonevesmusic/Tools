@@ -23,3 +23,5 @@ A list of tools for different purposes and types of usage.
 ## ✨ Useful Stuff
 
 <a href="https://www.base64.sh/tools"><img src="https://www.base64.sh/favicon-16x16.png"></a> → [All Encoding & Decoding Tools | Complete Collection](https://www.base64.sh/tools)
+
+<a href="https://www.base64.sh/tools"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="16px" height="16px"></a> → [CODA | the songs you quit on, finished](https://huggingface.co/spaces/build-small-hackathon/coda)
