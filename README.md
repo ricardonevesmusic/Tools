@@ -1,4 +1,4 @@
-# 🛠️ Toolist
+# 🛠️ Tools
 
 A list of tools for different purposes and types of usage.
 
